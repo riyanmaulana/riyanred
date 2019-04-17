@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    font-family: "Vollkorn", serif;
+    font-size: 22px;
+    color: #000000;
+    font-weight: 400;
+}
+
+#hero-container{
+    background-color: darkred;
+    height: fit-content;
+    width: 100vw;
+}
+.box{
+    padding: 10px 40px;
+    text-align: center;
+}
+.box img{
+    height: 140px;
+    border-radius: 80px;
+    width: auto;
+}
+h1{
+    margin: 20px 0px;
+    color: white;
+    font-size: 2.9rem;
+    font-weight: 700;
+}
+p{
+    margin-top: 15px;
+    color:gray;
+    font-size: 1.9rem;
+}
+.red{
+    color: white;
+}
+.lime{
+    color: goldenrod;
+}
